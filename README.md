@@ -1,6 +1,6 @@
 <h1 align="center"> pin-code </h1>
 
-pin-code [![Build Status](https://travis-ci.com/hughcube/pin-code.svg?branch=master)](https://travis-ci.com/hughcube/pin-code)
+pin-code [![Build Status](https://travis-ci.com/hughcube/pin-code.svg?branch=1.0)](https://travis-ci.com/hughcube/pin-code)
 
 
 ## Installing
